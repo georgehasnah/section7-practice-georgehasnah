@@ -1,6 +1,6 @@
 ---
 title: "Version Control Practice: Fictional Voter Turnout"
-author: "Your Name"
+author: "George Hasnah"
 output: html_document
 ---
 
