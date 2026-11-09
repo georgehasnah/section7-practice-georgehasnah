@@ -1,0 +1,31 @@
+---
+title: "Version Control Practice: Fictional Voter Turnout"
+author: "Your Name"
+output: html_document
+---
+
+# Research question
+
+What share of registered voters voted across these eight fictional precincts?
+
+All observations in this project were invented for classroom practice. They do not describe a real election.
+
+# Load and inspect the data
+
+Add the data-loading and row-count code here when the TA asks you to.
+
+```{r load-data}
+# We will add two lines here during section.
+```
+
+# Calculate turnout
+
+Add your calculations here after completing the break-and-recover exercise.
+
+```{r turnout-summary}
+# We will add the calculations here after recovery.
+```
+
+# Verification note
+
+Replace this paragraph with your own account of what you checked, how you checked it independently, and what you found or restored.

@@ -1,0 +1,6 @@
+file,origin,status,verification
+README.md,TA-provided practice starter,not-yet-reviewed,Review the instructions and replace the author placeholder
+analysis.Rmd,TA-provided practice starter,not-yet-verified,Knit the baseline and verify later calculations independently
+data/turnout.csv,Invented classroom data,not-yet-verified,Check eight rows and add the vote and registration totals
+AI_LOG.csv,TA-provided blank log,not-yet-completed,Record the simulated suggestion and verification after the exercise
+prompts/simulated_suggestion.txt,TA-provided deliberately incorrect suggestion,known-incorrect,The proposed data/voters.csv file does not exist

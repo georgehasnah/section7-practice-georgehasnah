@@ -1,0 +1,20 @@
+SIMULATED SUGGESTION FOR AN INTENTIONAL RECOVERY EXERCISE
+
+This text is supplied for practice. It is not a real Claude response.
+No live AI tool is needed or requested for this exercise.
+
+Mock request:
+"Please fix the file path in my data-loading code."
+
+Mock suggestion (deliberately wrong):
+"The data file is named voters.csv. Replace your loading chunk with:"
+
+turnout <- read.csv("data/voters.csv")
+nrow(turnout)
+
+Why it is wrong:
+The included CSV is data/turnout.csv. There is no data/voters.csv.
+
+Follow your TA's instructions: save and commit the unverified edit, observe the
+knitting failure, restore the last working analysis.Rmd from Git history, knit
+again, verify independently, and record the simulation in AI_LOG.csv.
