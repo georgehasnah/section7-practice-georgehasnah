@@ -1,6 +1,6 @@
 # Section 7: Git and GitHub Practice
 
-Student: **Replace with your name**
+Student: **George Hasnah**
 
 Research question: What share of registered voters voted across these eight fictional precincts?
 
